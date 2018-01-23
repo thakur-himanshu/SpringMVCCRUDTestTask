@@ -167,3 +167,6 @@ Output:
 Now lets hit http://localhost:8080/ URL to get initial screen.
 
 ![alt text](https://image.ibb.co/bXSsTb/Untitled.png)
+
+You can add & Edit a record as well:
+![alt text](https://image.ibb.co/dKed1w/Untitled1.png)
