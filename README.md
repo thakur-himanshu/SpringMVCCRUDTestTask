@@ -165,3 +165,5 @@ EmployeeForm.jsp displays details of a employee for creating new or updating old
 
 Output:
 Now lets hit http://localhost:8080/ URL to get initial screen.
+
+![alt text](https://image.ibb.co/bXSsTb/Untitled.png)
