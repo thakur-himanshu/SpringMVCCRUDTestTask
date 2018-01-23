@@ -1,14 +1,13 @@
 # Employee storage service for companies
 
-Simple CRUD application using Spring MVC and Hibernate. I used MySQL as database and Maven as a build tool for the project. Our Application is Employee 
-Storage Service where you can view or search employee, create new empoloyee, edit or delete existing employee.
+A Simple CRUD application using Spring MVC and Hibernate using MySQL database and Maven as a build tool for the project. Our Application is Employee Storage Service where you can add, view, edit and delete an employee record.
 
 ## Tools and Technologies used  
 
-Spring 4.1.5 RELEASE, Hibernate 4.3.8 Final, MySQL 5.7, Java 8, Intellij IDEA, Tomcat 8, Maven 3
+Spring 4.3 RELEASE, Hibernate 4.3.8 Final, MySQL 5.7, Java 8, Intellij IDEA, Tomcat 8.5, Apache Maven 3.5
 
 ### Follow the steps mentioned below to develop this application.
-Step 1: Create Database Table
+Step 1: Create a Database and a table
 Create database EMP_DB in MySQL. SQL statement to create the table is given below.
 ```
 CREATE TABLE `EMP_TBL` (   
@@ -23,7 +22,7 @@ CREATE TABLE `EMP_TBL` (
 )  ENGINE=InnoDB AUTO_INCREMENT=25 DEFAULT CHARSET=utf8
 ```
 
-Step 2: Create Dynamic Web Project in Maven
+Step 2: Create a Dynamic Web Project in Maven
 To create dynamic web project with maven, navigate to the folder where you want to create the project and execute following command in 
 Command Prompt.
 
